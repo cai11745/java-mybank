@@ -1,4 +1,4 @@
-# mybank-demo-maven
+# # mybank-demo-maven
 
 This is a demo application for demonstrating Rapid Appliction Development with OpenShift 3.
 
