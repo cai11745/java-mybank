@@ -19,7 +19,7 @@ contentType="text/html; charset=UTF-8"%>
 	
 	<div class="main">
 	<img style="margin:50px;" src="images/small_bank.png"><br>
-		<div class="linkbox"><a href="offices.jsp">--中国香港Sun Life-服务网点--</a></div>
+		<div class="linkbox"><a href="offices.jsp">--中国香港-服务网点--</a></div>
 	</div>
 	
 </body>
