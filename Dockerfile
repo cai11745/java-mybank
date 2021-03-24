@@ -1,3 +1,3 @@
-FROM registry.test.com:5000/public/tomcat
+FROM tomcat:8.5
 RUN rm -fr /usr/local/tomcat/webapps/*
 COPY target/*.war /usr/local/tomcat/webapps/
